@@ -1,6 +1,5 @@
 # Cheeto-Sigma
 Cheeto client sigma version
-### Latest version
 
 ## Features
 
