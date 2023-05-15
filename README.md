@@ -1,6 +1,9 @@
 # Cheeto-Sigma
 Cheeto client sigma version
 
+## GUI Screenshot
+![Screenshot](https://media.discordapp.net/attachments/972977075197739048/1019616928358203422/unknown.png)
+
 ## Features
 
 #### Combat
@@ -51,5 +54,4 @@ Cheeto client sigma version
 + AuctionHelper
 + MuteNotif
 
-## GUI Screenshot
-![Screenshot](https://media.discordapp.net/attachments/972977075197739048/1019616928358203422/unknown.png)
+
