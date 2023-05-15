@@ -1,0 +1,688 @@
+[22:10:45] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[22:10:45] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[22:10:45] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[22:10:46] [main/DEBUG] [FML]: Injecting tracing printstreams for STDOUT/STDERR.
+[22:10:46] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[22:10:46] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_362, running on Windows 10:amd64:10.0, installed at C:\Program Files\Amazon Corretto\jdk1.8.0_362\jre
+[22:10:46] [main/DEBUG] [FML]: Java classpath at launch is:
+[22:10:46] [main/DEBUG] [FML]:     C:\Program Files\Amazon Corretto\jdk1.8.0_362\jre\lib\charsets.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Program Files\Amazon Corretto\jdk1.8.0_362\jre\lib\ext\access-bridge-64.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Program Files\Amazon Corretto\jdk1.8.0_362\jre\lib\ext\cldrdata.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Program Files\Amazon Corretto\jdk1.8.0_362\jre\lib\ext\dnsns.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Program Files\Amazon Corretto\jdk1.8.0_362\jre\lib\ext\jaccess.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Program Files\Amazon Corretto\jdk1.8.0_362\jre\lib\ext\jfxrt.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Program Files\Amazon Corretto\jdk1.8.0_362\jre\lib\ext\localedata.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Program Files\Amazon Corretto\jdk1.8.0_362\jre\lib\ext\nashorn.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Program Files\Amazon Corretto\jdk1.8.0_362\jre\lib\ext\sunec.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Program Files\Amazon Corretto\jdk1.8.0_362\jre\lib\ext\sunjce_provider.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Program Files\Amazon Corretto\jdk1.8.0_362\jre\lib\ext\sunmscapi.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Program Files\Amazon Corretto\jdk1.8.0_362\jre\lib\ext\sunpkcs11.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Program Files\Amazon Corretto\jdk1.8.0_362\jre\lib\ext\zipfs.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Program Files\Amazon Corretto\jdk1.8.0_362\jre\lib\jce.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Program Files\Amazon Corretto\jdk1.8.0_362\jre\lib\jfr.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Program Files\Amazon Corretto\jdk1.8.0_362\jre\lib\jfxswt.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Program Files\Amazon Corretto\jdk1.8.0_362\jre\lib\jsse.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Program Files\Amazon Corretto\jdk1.8.0_362\jre\lib\management-agent.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Program Files\Amazon Corretto\jdk1.8.0_362\jre\lib\resources.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Program Files\Amazon Corretto\jdk1.8.0_362\jre\lib\rt.jar
+[22:10:46] [main/DEBUG] [FML]:     F:\NiceTryMagipigeon\Java\XaeroPlus\build\classes\java\main
+[22:10:46] [main/DEBUG] [FML]:     F:\NiceTryMagipigeon\Java\XaeroPlus\build\resources\main
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-slf4j-impl\2.14.0\d6003a3b3f24fdb476848f4ecabdb2a43354e410\log4j-slf4j-impl-2.14.0.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\xaeros-world-map-317780\4424616_mapped_snapshot_20171003-1.12\xaeros-world-map-317780-4424616_mapped_snapshot_20171003-1.12.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\xaeros-minimap-263420\4430571_mapped_snapshot_20171003-1.12\xaeros-minimap-263420-4430571_mapped_snapshot_20171003-1.12.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\org.spongepowered\mixin\0.7.11-SNAPSHOT\7a670207bdb97db418118ad1e9bb42424ff3776d\mixin-0.7.11-SNAPSHOT.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.12.2-14.23.5.2860_mapped_snapshot_20171003-1.12\forge-1.12.2-14.23.5.2860_mapped_snapshot_20171003-1.12-recomp.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-compress\1.21\4ec95b60d4e86b5c95a0e919cb172a0af98011ef\commons-compress-1.21.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.7.25\da76ca59f6a57ee3102f8f9bd9cee742973efa8a\slf4j-api-1.7.25.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-api\2.15.0\4a5aa7e55a29391c6f66e0b259d5189aa11e45d0\log4j-api-2.15.0.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\forge_gradle\minecraft_repo\versions\1.12.2\client-extra.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\net.minecraft\launchwrapper\1.12\111e7bea9c968cdb3d06ef4632bf7ff0824d0f36\launchwrapper-1.12.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-core\2.15.0\ba55c13d7ac2fd44df9cc8074455719a33f375b9\log4j-core-2.15.0.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.1\f7be08ec23c21485b9b5a1cf1654c2ec8c58168d\jsr305-3.0.1.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mergetool\1.0.13\c18446ec4d5814f447d7a79b314ba9a27cc8dbc8\mergetool-1.0.13-forge.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\forge_gradle\maven_downloader\de\oceanlabs\mcp\mcp_snapshot\20171003-1.12\mcp_snapshot-20171003-1.12.zip
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-debug-all\5.2\3354e11e2b34215f06dab629ab88e06aca477c19\asm-debug-all-5.2.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\org.jline\jline\3.5.1\51800e9d7a13608894a5a28eed0f5c7fa2f300fb\jline-3.5.1.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\com.typesafe.akka\akka-actor_2.11\2.3.3\ed62e9fc709ca0f2ff1a3220daa8b70a2870078e\akka-actor_2.11-2.3.3.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\com.typesafe\config\1.2.1\f771f71fdae3df231bcd54d5ca2d57f0bf93f467\config-1.2.1.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-actors-migration_2.11\1.1.0\dfa8bc42b181d5b9f1a5dd147f8ae308b893eb6f\scala-actors-migration_2.11-1.1.0.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-compiler\2.11.1\56ea2e6c025e0821f28d73ca271218b8dd04926a\scala-compiler-2.11.1.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\org.scala-lang.plugins\scala-continuations-library_2.11\1.0.2_mc\e517c53a7e9acd6b1668c5a35eccbaa3bab9aac\scala-continuations-library_2.11-1.0.2_mc.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\org.scala-lang.plugins\scala-continuations-plugin_2.11.1\1.0.2_mc\f361a3283452c57fa30c1ee69448995de23c60f7\scala-continuations-plugin_2.11.1-1.0.2_mc.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-reflect\2.11.1\6580347e61cc7f8e802941e7fde40fa83b8badeb\scala-reflect-2.11.1.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.1\e11da23da3eabab9f4777b9220e60d44c1aab6a\scala-library-2.11.1.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-parser-combinators_2.11\1.0.1\f05d7345bf5a58924f2837c6c1f4d73a938e1ff0\scala-parser-combinators_2.11-1.0.1.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-swing_2.11\1.0.1\b1cdd92bd47b1e1837139c1c53020e86bb9112ae\scala-swing_2.11-1.0.1.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-xml_2.11\1.0.2\7a80ec00aec122fba7cd4e0d4cdd87ff7e4cb6d0\scala-xml_2.11-1.0.2.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\lzma\lzma\0.0.1\521616dc7487b42bef0e803bd2fa3faf668101d7\lzma-0.0.1.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\java3d\vecmath\1.5.2\79846ba34cbd89e2422d74d53752f993dcc2ccaf\vecmath-1.5.2.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\net.sf.trove4j\trove4j\3.0.3\42ccaf4761f0dfdfa805c9e340d99a755907e2dd\trove4j-3.0.3.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.5.3\7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4\maven-artifact-3.5.3.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\net.minecraftforge\legacydev\0.2.3.1\f2cd4a8c9f09faf1c1e4a9a4c65df36e634f95db\legacydev-0.2.3.1-fatjar.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\com.mojang\realms\1.10.22\bd0dccebdf3744c75f1ca20063f16e8f7d5e663f\realms-1.10.22.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\com.mojang\authlib\1.5.25\9834cdf236c22e84b946bba989e2f94ef5897c3c\authlib-1.5.25.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\com.mojang\text2speech\1.10.3\48fd510879dff266c3815947de66e3d4809f8668\text2speech-1.10.3.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\com.mojang\patchy\1.3.9\eb8bb7b66fa0e2152b1b40b3856e82f7619439ee\patchy-1.3.9.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\oshi-project\oshi-core\1.1\9ddf7b048a8d701be231c0f4f95fd986198fd2d8\oshi-core-1.1.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\net.java.dev.jna\jna\4.4.0\cb208278274bf12ebdb56c61bd7407e6f774d65a\jna-4.4.0.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\net.java.dev.jna\platform\3.4.0\e3f70017be8100d3d6923f50b3d2ee17714e9c13\platform-3.4.0.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\com.ibm.icu\icu4j-core-mojang\51.2\63d216a9311cca6be337c1e458e587f99d382b84\icu4j-core-mojang-51.2.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\com.paulscode\codecjorbis\20101023\c73b5636faf089d9f00e8732a829577de25237ee\codecjorbis-20101023.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\com.paulscode\codecwav\20101023\12f031cfe88fef5c1dd36c563c0a3a69bd7261da\codecwav-20101023.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\com.paulscode\libraryjavasound\20101123\5c5e304366f75f9eaa2e8cca546a1fb6109348b3\libraryjavasound-20101123.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\com.paulscode\librarylwjglopenal\20100824\73e80d0794c39665aec3f62eee88ca91676674ef\librarylwjglopenal-20100824.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\com.paulscode\soundsystem\20120107\419c05fe9be71f792b2d76cfc9b67f1ed0fec7f6\soundsystem-20120107.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\io.netty\netty-all\4.1.9.Final\97860965d6a0a6b98e7f569f3f966727b8db75\netty-all-4.1.9.Final.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\21.0\3a3d111be1be1b745edfa7d91678a12d7ed38709\guava-21.0.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.5\6c6c702c89bfff3cd9e80b04d668c5e190d588c6\commons-lang3-3.5.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.5\2852e6e05fbb95076fc091f6d1780f1f8fe35e0f\commons-io-2.5.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient\4.3.3\18f4247ff4572a074444572cee34647c43e7c9c7\httpclient-4.3.3.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\commons-codec\commons-codec\1.10\4b95f4897fa13f2cd904aee711aeafc0c5295cd8\commons-codec-1.10.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\org.lwjgl.lwjgl\lwjgl_util\2.9.4-nightly-20150209\d51a7c040a721d13efdfbd34f8b257b2df882ad0\lwjgl_util-2.9.4-nightly-20150209.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\org.lwjgl.lwjgl\lwjgl\2.9.4-nightly-20150209\697517568c68e78ae0b4544145af031c81082dfe\lwjgl-2.9.4-nightly-20150209.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\net.java.jinput\jinput\2.0.5\39c7796b469a600f72380316f6b1f11db6c2c7c4\jinput-2.0.5.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\net.java.jutils\jutils\1.0.0\e12fe1fda814bd348c1579329c86943d2cd3c6a6\jutils-1.0.0.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\commons-logging\commons-logging\1.1.3\f6f66e966c70a83ffbdb6f17a0919eaf7c8aca7f\commons-logging-1.1.3.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.3.2\31fbbff1ddbf98f3aa7377c94d33b0447c646b6e\httpcore-4.3.2.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\it.unimi.dsi\fastutil\7.1.0\9835253257524c1be7ab50c057aa2d418fb72082\fastutil-7.1.0.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\org.lwjgl.lwjgl\lwjgl-platform\2.9.4-nightly-20150209\b04f3ee8f5e43fa3b162981b50bb72fe1acabb33\lwjgl-platform-2.9.4-nightly-20150209.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\org.lwjgl.lwjgl\lwjgl-platform\2.9.4-nightly-20150209\931074f46c795d2f7b30ed6395df5715cfd7675b\lwjgl-platform-2.9.4-nightly-20150209-natives-linux.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\org.lwjgl.lwjgl\lwjgl-platform\2.9.4-nightly-20150209\bcab850f8f487c3f4c4dbabde778bb82bd1a40ed\lwjgl-platform-2.9.4-nightly-20150209-natives-osx.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\org.lwjgl.lwjgl\lwjgl-platform\2.9.4-nightly-20150209\b84d5102b9dbfabfeb5e43c7e2828d98a7fc80e0\lwjgl-platform-2.9.4-nightly-20150209-natives-windows.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-actors\2.11.0\8ccfb6541de179bb1c4d45cf414acee069b7f78b\scala-actors-2.11.0.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\org.scala-lang.modules\scala-xml_2.11\1.0.2\820fbca7e524b530fdadc594c39d49a21ea0337e\scala-xml_2.11-1.0.2.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\org.scala-lang.modules\scala-parser-combinators_2.11\1.0.1\f05d7345bf5a58924f2837c6c1f4d73a938e1ff0\scala-parser-combinators_2.11-1.0.1.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\org.codehaus.plexus\plexus-utils\3.1.0\60eecb6f15abdb1c653ad80abaac6fe188b3feaa\plexus-utils-3.1.0.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\ca.weblite\java-objc-bridge\1.0.0\6ef160c3133a78de015830860197602ca1c855d3\java-objc-bridge-1.0.0.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\net.sf.jopt-simple\jopt-simple\5.0.4\4fdac2fbe92dfad86aa6e9301736f6b4342a3f5c\jopt-simple-5.0.4.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\com.mojang\text2speech\1.10.3\84a4b856389cc4f485275b1f63497a95a857a443\text2speech-1.10.3-natives-windows.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\net.java.jinput\jinput-platform\2.0.5\7ff832a6eb9ab6a767f1ade2b548092d0fa64795\jinput-platform-2.0.5-natives-linux.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\net.java.jinput\jinput-platform\2.0.5\53f9c919f34d2ca9de8c51fc4e1e8282029a9232\jinput-platform-2.0.5-natives-osx.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\net.java.jinput\jinput-platform\2.0.5\385ee093e01f587f30ee1c8a2ee7d408fd732e16\jinput-platform-2.0.5-natives-windows.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-util\6.2\a9690730f92cc79eeadc20e400ebb41eccce10b1\asm-util-6.2.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-tree\6.2\61570e046111559f38d4e0e580c005f75988c0a6\asm-tree-6.2.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm\6.2\1b6c4ff09ce03f3052429139c2a68e295cae6604\asm-6.2.jar
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-analysis\6.2\c7d9a90d221cbb977848d2c777eb3aa7637e89df\asm-analysis-6.2.jar
+[22:10:46] [main/DEBUG] [FML]:     F:\Some shit\IntelliJ IDEA Community Edition 2022.3.2\lib\idea_rt.jar
+[22:10:46] [main/DEBUG] [FML]: Java library path at launch is:
+[22:10:46] [main/DEBUG] [FML]:     C:\Program Files\Amazon Corretto\jdk1.8.0_362\bin
+[22:10:46] [main/DEBUG] [FML]:     C:\Windows\Sun\Java\bin
+[22:10:46] [main/DEBUG] [FML]:     C:\Windows\system32
+[22:10:46] [main/DEBUG] [FML]:     C:\Windows
+[22:10:46] [main/DEBUG] [FML]:     %INTEL_DEV_REDIST%redist\intel64\compiler
+[22:10:46] [main/DEBUG] [FML]:     C:\Program Files\Amazon Corretto\jdk1.8.0_362\bin
+[22:10:46] [main/DEBUG] [FML]:     C:\Windows\system32
+[22:10:46] [main/DEBUG] [FML]:     C:\Windows
+[22:10:46] [main/DEBUG] [FML]:     C:\Windows\System32\Wbem
+[22:10:46] [main/DEBUG] [FML]:     C:\Windows\System32\WindowsPowerShell\v1.0\
+[22:10:46] [main/DEBUG] [FML]:     C:\Program Files\Cloudflare\Cloudflare WARP\
+[22:10:46] [main/DEBUG] [FML]:     C:\Program Files\Git\cmd
+[22:10:46] [main/DEBUG] [FML]:     F:\Some shit\node\
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\AppData\Local\Programs\Python\Python310\Scripts\
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\AppData\Local\Programs\Python\Python310\
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\AppData\Local\Microsoft\WindowsApps
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\AppData\Local\Programs\Microsoft VS Code\bin
+[22:10:46] [main/DEBUG] [FML]:     F:\Some shit\IntelliJ IDEA Community Edition 2022.3.2\bin
+[22:10:46] [main/DEBUG] [FML]:     
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\AppData\Local\GitHubDesktop\bin
+[22:10:46] [main/DEBUG] [FML]:     C:\Users\AverageDev\AppData\Roaming\npm
+[22:10:46] [main/DEBUG] [FML]:     .
+[22:10:46] [main/DEBUG] [FML]:     F:/NiceTryMagipigeon/Java/XaeroPlus\build\natives
+[22:10:46] [main/ERROR] [FML]: Apache Maven library folder was not in the format expected. Using default libraries directory.
+[22:10:46] [main/ERROR] [FML]: Full: C:\Users\AverageDev\.gradle\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.5.3\7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4\maven-artifact-3.5.3.jar
+[22:10:46] [main/ERROR] [FML]: Trimmed: c:/users/averagedev/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.5.3/
+[22:10:46] [main/DEBUG] [FML]: Determined Minecraft Libraries Root: .\libraries
+[22:10:46] [main/DEBUG] [FML]: Cleaning up mods folder: .\mods
+[22:10:46] [main/DEBUG] [FML]: Examining file: XaerosWorldMap_1.29.2_Forge_1.12.jar
+[22:10:46] [main/DEBUG] [FML]: Examining file: Xaeros_Minimap_23.3.0_Forge_1.12.jar
+[22:10:46] [main/INFO] [FML]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[22:10:46] [main/INFO] [FML]: Detected deobfuscated environment, loading log configs for colored console logs.
+[22:10:46] [main/DEBUG] [FML]: Instantiating coremod class FMLCorePlugin
+[22:10:46] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin), we are in deobf and it's a forge core plugin
+[22:10:46] [main/DEBUG] [FML]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[22:10:46] [main/DEBUG] [FML]: Enqueued coremod FMLCorePlugin
+[22:10:46] [main/DEBUG] [FML]: Instantiating coremod class FMLForgePlugin
+[22:10:46] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin), we are in deobf and it's a forge core plugin
+[22:10:46] [main/DEBUG] [FML]: Enqueued coremod FMLForgePlugin
+[22:10:46] [main/DEBUG] [FML]: All fundamental core mods are successfully located
+[22:10:46] [main/INFO] [FML]: Found a command line coremod : xaeroplus.mixin.MixinLoaderForge
+[22:10:46] [main/DEBUG] [FML]: Instantiating coremod class MixinLoaderForge
+[22:10:46] [main/TRACE] [FML]: coremod named XaeroPlusMixinLoader is loading
+[22:10:46] [main/DEBUG] [FML]: The coremod xaeroplus.mixin.MixinLoaderForge requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[22:10:46] [main/INFO] [FML]: Ignoring missing certificate for coremod XaeroPlusMixinLoader (xaeroplus.mixin.MixinLoaderForge), as this is probably a dev workspace
+[22:10:47] [main/DEBUG] [mixin]: MixinService [LaunchWrapper] was successfully booted in net.minecraft.launchwrapper.LaunchClassLoader@33a10788
+[22:10:47] [main/DEBUG] [mixin]: MixinService [LaunchWrapper] was successfully booted in sun.misc.Launcher$AppClassLoader@18b4aac2
+[22:10:47] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.7.11 Source=file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.7.11-SNAPSHOT/7a670207bdb97db418118ad1e9bb42424ff3776d/mixin-0.7.11-SNAPSHOT.jar Service=LaunchWrapper Env=CLIENT
+[22:10:47] [main/DEBUG] [mixin]: Adding new mixin transformer proxy #1
+[22:10:47] [main/DEBUG] [mixin]: Initialising Mixin Platform Manager
+[22:10:47] [main/DEBUG] [mixin]: Mixin platform: primary container is file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.7.11-SNAPSHOT/7a670207bdb97db418118ad1e9bb42424ff3776d/mixin-0.7.11-SNAPSHOT.jar
+[22:10:47] [main/DEBUG] [mixin]: Adding mixin platform agents for container file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.7.11-SNAPSHOT/7a670207bdb97db418118ad1e9bb42424ff3776d/mixin-0.7.11-SNAPSHOT.jar
+[22:10:47] [main/DEBUG] [mixin]: FML platform agent will ignore coremod xaeroplus.mixin.MixinLoaderForge specified on the command line
+[22:10:47] [main/DEBUG] [mixin]: FML platform agent will ignore coremod xaeroplus.dev.minimap.core.XaeroMinimapPlugin specified on the command line
+[22:10:47] [main/DEBUG] [mixin]: FML platform agent will ignore coremod xaeroplus.dev.worldmap.core.XaeroWorldMapPlugin specified on the command line
+[22:10:47] [main/DEBUG] [mixin]: Instancing new MixinPlatformAgentFML for file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.7.11-SNAPSHOT/7a670207bdb97db418118ad1e9bb42424ff3776d/mixin-0.7.11-SNAPSHOT.jar
+[22:10:47] [main/DEBUG] [mixin]: Instancing new MixinPlatformAgentDefault for file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.7.11-SNAPSHOT/7a670207bdb97db418118ad1e9bb42424ff3776d/mixin-0.7.11-SNAPSHOT.jar
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/charsets.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/ext/access-bridge-64.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/ext/cldrdata.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/ext/dnsns.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/ext/jaccess.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/ext/jfxrt.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/ext/localedata.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/ext/nashorn.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/ext/sunec.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/ext/sunjce_provider.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/ext/sunmscapi.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/ext/sunpkcs11.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/ext/zipfs.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/jce.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/jfr.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/jfxswt.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/jsse.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/management-agent.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/resources.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/rt.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/F:/NiceTryMagipigeon/Java/XaeroPlus/build/classes/java/main/ for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/F:/NiceTryMagipigeon/Java/XaeroPlus/build/resources/main/ for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-slf4j-impl/2.14.0/d6003a3b3f24fdb476848f4ecabdb2a43354e410/log4j-slf4j-impl-2.14.0.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/forge_gradle/deobf_dependencies/curse/maven/xaeros-world-map-317780/4424616_mapped_snapshot_20171003-1.12/xaeros-world-map-317780-4424616_mapped_snapshot_20171003-1.12.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/forge_gradle/deobf_dependencies/curse/maven/xaeros-minimap-263420/4430571_mapped_snapshot_20171003-1.12/xaeros-minimap-263420-4430571_mapped_snapshot_20171003-1.12.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.12.2-14.23.5.2860_mapped_snapshot_20171003-1.12/forge-1.12.2-14.23.5.2860_mapped_snapshot_20171003-1.12-recomp.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.21/4ec95b60d4e86b5c95a0e919cb172a0af98011ef/commons-compress-1.21.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/da76ca59f6a57ee3102f8f9bd9cee742973efa8a/slf4j-api-1.7.25.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.15.0/4a5aa7e55a29391c6f66e0b259d5189aa11e45d0/log4j-api-2.15.0.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/forge_gradle/minecraft_repo/versions/1.12.2/client-extra.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/net.minecraft/launchwrapper/1.12/111e7bea9c968cdb3d06ef4632bf7ff0824d0f36/launchwrapper-1.12.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.15.0/ba55c13d7ac2fd44df9cc8074455719a33f375b9/log4j-core-2.15.0.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.1/f7be08ec23c21485b9b5a1cf1654c2ec8c58168d/jsr305-3.0.1.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/net.minecraftforge/mergetool/1.0.13/c18446ec4d5814f447d7a79b314ba9a27cc8dbc8/mergetool-1.0.13-forge.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/forge_gradle/maven_downloader/de/oceanlabs/mcp/mcp_snapshot/20171003-1.12/mcp_snapshot-20171003-1.12.zip for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-debug-all/5.2/3354e11e2b34215f06dab629ab88e06aca477c19/asm-debug-all-5.2.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.jline/jline/3.5.1/51800e9d7a13608894a5a28eed0f5c7fa2f300fb/jline-3.5.1.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-actor_2.11/2.3.3/ed62e9fc709ca0f2ff1a3220daa8b70a2870078e/akka-actor_2.11-2.3.3.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/com.typesafe/config/1.2.1/f771f71fdae3df231bcd54d5ca2d57f0bf93f467/config-1.2.1.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-actors-migration_2.11/1.1.0/dfa8bc42b181d5b9f1a5dd147f8ae308b893eb6f/scala-actors-migration_2.11-1.1.0.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-compiler/2.11.1/56ea2e6c025e0821f28d73ca271218b8dd04926a/scala-compiler-2.11.1.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.scala-lang.plugins/scala-continuations-library_2.11/1.0.2_mc/e517c53a7e9acd6b1668c5a35eccbaa3bab9aac/scala-continuations-library_2.11-1.0.2_mc.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.scala-lang.plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/f361a3283452c57fa30c1ee69448995de23c60f7/scala-continuations-plugin_2.11.1-1.0.2_mc.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.11.1/6580347e61cc7f8e802941e7fde40fa83b8badeb/scala-reflect-2.11.1.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.1/e11da23da3eabab9f4777b9220e60d44c1aab6a/scala-library-2.11.1.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-parser-combinators_2.11/1.0.1/f05d7345bf5a58924f2837c6c1f4d73a938e1ff0/scala-parser-combinators_2.11-1.0.1.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-swing_2.11/1.0.1/b1cdd92bd47b1e1837139c1c53020e86bb9112ae/scala-swing_2.11-1.0.1.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-xml_2.11/1.0.2/7a80ec00aec122fba7cd4e0d4cdd87ff7e4cb6d0/scala-xml_2.11-1.0.2.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/lzma/lzma/0.0.1/521616dc7487b42bef0e803bd2fa3faf668101d7/lzma-0.0.1.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/java3d/vecmath/1.5.2/79846ba34cbd89e2422d74d53752f993dcc2ccaf/vecmath-1.5.2.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/net.sf.trove4j/trove4j/3.0.3/42ccaf4761f0dfdfa805c9e340d99a755907e2dd/trove4j-3.0.3.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.5.3/7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4/maven-artifact-3.5.3.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/net.minecraftforge/legacydev/0.2.3.1/f2cd4a8c9f09faf1c1e4a9a4c65df36e634f95db/legacydev-0.2.3.1-fatjar.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/com.mojang/realms/1.10.22/bd0dccebdf3744c75f1ca20063f16e8f7d5e663f/realms-1.10.22.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/com.mojang/authlib/1.5.25/9834cdf236c22e84b946bba989e2f94ef5897c3c/authlib-1.5.25.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/com.mojang/text2speech/1.10.3/48fd510879dff266c3815947de66e3d4809f8668/text2speech-1.10.3.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/com.mojang/patchy/1.3.9/eb8bb7b66fa0e2152b1b40b3856e82f7619439ee/patchy-1.3.9.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/oshi-project/oshi-core/1.1/9ddf7b048a8d701be231c0f4f95fd986198fd2d8/oshi-core-1.1.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna/4.4.0/cb208278274bf12ebdb56c61bd7407e6f774d65a/jna-4.4.0.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/platform/3.4.0/e3f70017be8100d3d6923f50b3d2ee17714e9c13/platform-3.4.0.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/com.ibm.icu/icu4j-core-mojang/51.2/63d216a9311cca6be337c1e458e587f99d382b84/icu4j-core-mojang-51.2.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/com.paulscode/codecjorbis/20101023/c73b5636faf089d9f00e8732a829577de25237ee/codecjorbis-20101023.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/com.paulscode/codecwav/20101023/12f031cfe88fef5c1dd36c563c0a3a69bd7261da/codecwav-20101023.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/com.paulscode/libraryjavasound/20101123/5c5e304366f75f9eaa2e8cca546a1fb6109348b3/libraryjavasound-20101123.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/com.paulscode/librarylwjglopenal/20100824/73e80d0794c39665aec3f62eee88ca91676674ef/librarylwjglopenal-20100824.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/com.paulscode/soundsystem/20120107/419c05fe9be71f792b2d76cfc9b67f1ed0fec7f6/soundsystem-20120107.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.9.Final/97860965d6a0a6b98e7f569f3f966727b8db75/netty-all-4.1.9.Final.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/21.0/3a3d111be1be1b745edfa7d91678a12d7ed38709/guava-21.0.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.5/6c6c702c89bfff3cd9e80b04d668c5e190d588c6/commons-lang3-3.5.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.5/2852e6e05fbb95076fc091f6d1780f1f8fe35e0f/commons-io-2.5.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.3.3/18f4247ff4572a074444572cee34647c43e7c9c7/httpclient-4.3.3.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.10/4b95f4897fa13f2cd904aee711aeafc0c5295cd8/commons-codec-1.10.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl_util/2.9.4-nightly-20150209/d51a7c040a721d13efdfbd34f8b257b2df882ad0/lwjgl_util-2.9.4-nightly-20150209.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl/2.9.4-nightly-20150209/697517568c68e78ae0b4544145af031c81082dfe/lwjgl-2.9.4-nightly-20150209.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput/2.0.5/39c7796b469a600f72380316f6b1f11db6c2c7c4/jinput-2.0.5.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/net.java.jutils/jutils/1.0.0/e12fe1fda814bd348c1579329c86943d2cd3c6a6/jutils-1.0.0.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.1.3/f6f66e966c70a83ffbdb6f17a0919eaf7c8aca7f/commons-logging-1.1.3.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.3.2/31fbbff1ddbf98f3aa7377c94d33b0447c646b6e/httpcore-4.3.2.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/it.unimi.dsi/fastutil/7.1.0/9835253257524c1be7ab50c057aa2d418fb72082/fastutil-7.1.0.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl-platform/2.9.4-nightly-20150209/b04f3ee8f5e43fa3b162981b50bb72fe1acabb33/lwjgl-platform-2.9.4-nightly-20150209.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl-platform/2.9.4-nightly-20150209/931074f46c795d2f7b30ed6395df5715cfd7675b/lwjgl-platform-2.9.4-nightly-20150209-natives-linux.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl-platform/2.9.4-nightly-20150209/bcab850f8f487c3f4c4dbabde778bb82bd1a40ed/lwjgl-platform-2.9.4-nightly-20150209-natives-osx.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl-platform/2.9.4-nightly-20150209/b84d5102b9dbfabfeb5e43c7e2828d98a7fc80e0/lwjgl-platform-2.9.4-nightly-20150209-natives-windows.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-actors/2.11.0/8ccfb6541de179bb1c4d45cf414acee069b7f78b/scala-actors-2.11.0.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-xml_2.11/1.0.2/820fbca7e524b530fdadc594c39d49a21ea0337e/scala-xml_2.11-1.0.2.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.1/f05d7345bf5a58924f2837c6c1f4d73a938e1ff0/scala-parser-combinators_2.11-1.0.1.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-utils/3.1.0/60eecb6f15abdb1c653ad80abaac6fe188b3feaa/plexus-utils-3.1.0.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/ca.weblite/java-objc-bridge/1.0.0/6ef160c3133a78de015830860197602ca1c855d3/java-objc-bridge-1.0.0.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/net.sf.jopt-simple/jopt-simple/5.0.4/4fdac2fbe92dfad86aa6e9301736f6b4342a3f5c/jopt-simple-5.0.4.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/com.mojang/text2speech/1.10.3/84a4b856389cc4f485275b1f63497a95a857a443/text2speech-1.10.3-natives-windows.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput-platform/2.0.5/7ff832a6eb9ab6a767f1ade2b548092d0fa64795/jinput-platform-2.0.5-natives-linux.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput-platform/2.0.5/53f9c919f34d2ca9de8c51fc4e1e8282029a9232/jinput-platform-2.0.5-natives-osx.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput-platform/2.0.5/385ee093e01f587f30ee1c8a2ee7d408fd732e16/jinput-platform-2.0.5-natives-windows.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-util/6.2/a9690730f92cc79eeadc20e400ebb41eccce10b1/asm-util-6.2.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/6.2/61570e046111559f38d4e0e580c005f75988c0a6/asm-tree-6.2.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/6.2/1b6c4ff09ce03f3052429139c2a68e295cae6604/asm-6.2.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/6.2/c7d9a90d221cbb977848d2c777eb3aa7637e89df/asm-analysis-6.2.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Scanning file:/F:/Some%20shit/IntelliJ%20IDEA%20Community%20Edition%202022.3.2/lib/idea_rt.jar for mixin tweaker
+[22:10:47] [main/DEBUG] [mixin]: Processing prepare() for PlatformAgent[MixinPlatformAgentFML:file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.7.11-SNAPSHOT/7a670207bdb97db418118ad1e9bb42424ff3776d/mixin-0.7.11-SNAPSHOT.jar]
+[22:10:47] [main/DEBUG] [mixin]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.7.11-SNAPSHOT/7a670207bdb97db418118ad1e9bb42424ff3776d/mixin-0.7.11-SNAPSHOT.jar]
+[22:10:48] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[22:10:48] [main/ERROR] [mixin]: Mixin config mixins.xaeroplus.json does not specify "minVersion" property
+[22:10:48] [main/DEBUG] [FML]: Enqueued coremod XaeroPlusMixinLoader
+[22:10:48] [main/INFO] [FML]: Found a command line coremod : xaeroplus.dev.minimap.core.XaeroMinimapPlugin
+[22:10:48] [main/DEBUG] [FML]: Instantiating coremod class XaeroMinimapPlugin
+[22:10:48] [main/DEBUG] [FML]: The coremod xaeroplus.dev.minimap.core.XaeroMinimapPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[22:10:48] [main/INFO] [FML]: Ignoring missing certificate for coremod XaeroMinimapPlugin (xaeroplus.dev.minimap.core.XaeroMinimapPlugin), as this is probably a dev workspace
+[22:10:48] [main/DEBUG] [FML]: Enqueued coremod XaeroMinimapPlugin
+[22:10:48] [main/INFO] [FML]: Found a command line coremod : xaeroplus.dev.worldmap.core.XaeroWorldMapPlugin
+[22:10:48] [main/DEBUG] [FML]: Instantiating coremod class XaeroWorldMapPlugin
+[22:10:48] [main/DEBUG] [FML]: The coremod xaeroplus.dev.worldmap.core.XaeroWorldMapPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[22:10:48] [main/INFO] [FML]: Ignoring missing certificate for coremod XaeroWorldMapPlugin (xaeroplus.dev.worldmap.core.XaeroWorldMapPlugin), as this is probably a dev workspace
+[22:10:48] [main/DEBUG] [FML]: Enqueued coremod XaeroWorldMapPlugin
+[22:10:48] [main/DEBUG] [FML]: Discovering coremods
+[22:10:48] [main/INFO] [FML]: Searching F:\NiceTryMagipigeon\Java\XaeroPlus\run\.\mods for mods
+[22:10:48] [main/DEBUG] [FML]:   Adding XaerosWorldMap_1.29.2_Forge_1.12.jar to the mod list
+[22:10:48] [main/DEBUG] [FML]:   Adding Xaeros_Minimap_23.3.0_Forge_1.12.jar to the mod list
+[22:10:48] [main/DEBUG] [FML]: Examining for coremod candidacy Xaeros_Minimap_23.3.0_Forge_1.12.jar
+[22:10:48] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Xaeros_Minimap_23.3.0_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:10:48] [main/DEBUG] [FML]: Instantiating coremod class XaeroMinimapPlugin
+[22:10:48] [main/DEBUG] [FML]: The coremod xaero.common.core.XaeroMinimapPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[22:10:48] [main/WARN] [FML]: The coremod XaeroMinimapPlugin (xaero.common.core.XaeroMinimapPlugin) is not signed!
+[22:10:48] [main/DEBUG] [FML]: Enqueued coremod XaeroMinimapPlugin
+[22:10:48] [main/DEBUG] [FML]: Examining for coremod candidacy XaerosWorldMap_1.29.2_Forge_1.12.jar
+[22:10:48] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in XaerosWorldMap_1.29.2_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:10:48] [main/DEBUG] [FML]: Instantiating coremod class XaeroWorldMapPlugin
+[22:10:48] [main/DEBUG] [FML]: The coremod xaero.map.core.XaeroWorldMapPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[22:10:48] [main/WARN] [FML]: The coremod XaeroWorldMapPlugin (xaero.map.core.XaeroWorldMapPlugin) is not signed!
+[22:10:48] [main/DEBUG] [FML]: Enqueued coremod XaeroWorldMapPlugin
+[22:10:48] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:10:48] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[22:10:48] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:10:48] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:10:48] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:10:48] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:10:48] [main/DEBUG] [FML]: Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformers
+[22:10:48] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[22:10:48] [main/DEBUG] [mixin]: Preparing mixins for MixinEnvironment[PREINIT]
+[22:10:48] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[22:10:48] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[22:10:48] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[22:10:48] [main/DEBUG] [FML]: Injection complete
+[22:10:48] [main/DEBUG] [FML]: Running coremod plugin for FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\}
+[22:10:48] [main/DEBUG] [FML]: Running coremod plugin FMLCorePlugin
+[22:10:48] [main/DEBUG] [FML]: Loading deobfuscation resource F:/NiceTryMagipigeon/Java/XaeroPlus\build\createSrgToMcp\output.srg with 36076 records
+[22:10:52] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
+[22:10:52] [main/DEBUG] [FML]: Coremod plugin class FMLCorePlugin run successfully
+[22:10:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:10:52] [main/DEBUG] [FML]: Injecting coremod FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\} class transformers
+[22:10:52] [main/DEBUG] [FML]: Injection complete
+[22:10:52] [main/DEBUG] [FML]: Running coremod plugin for FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\}
+[22:10:52] [main/DEBUG] [FML]: Running coremod plugin FMLForgePlugin
+[22:10:52] [main/DEBUG] [FML]: Coremod plugin class FMLForgePlugin run successfully
+[22:10:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:10:52] [main/DEBUG] [FML]: Injecting coremod XaeroPlusMixinLoader \{xaeroplus.mixin.MixinLoaderForge\} class transformers
+[22:10:52] [main/DEBUG] [FML]: Injection complete
+[22:10:52] [main/DEBUG] [FML]: Running coremod plugin for XaeroPlusMixinLoader \{xaeroplus.mixin.MixinLoaderForge\}
+[22:10:52] [main/DEBUG] [FML]: Running coremod plugin XaeroPlusMixinLoader
+[22:10:52] [main/DEBUG] [FML]: Coremod plugin class MixinLoaderForge run successfully
+[22:10:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:10:52] [main/DEBUG] [FML]: Injecting coremod XaeroMinimapPlugin \{xaeroplus.dev.minimap.core.XaeroMinimapPlugin\} class transformers
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.ChunkTransformer
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.NetHandlerPlayClientTransformer
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.EntityPlayerTransformer
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.AbstractClientPlayerTransformer
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.WorldClientTransformer
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.EntityPlayerSPTransformer
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.PlayerListTransformer
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.SaveFormatTransformer
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.GuiIngameForgeTransformer
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.GuiBossOverlayTransformer
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.ModelRendererTransformer
+[22:10:52] [main/DEBUG] [FML]: Injection complete
+[22:10:52] [main/DEBUG] [FML]: Running coremod plugin for XaeroMinimapPlugin \{xaeroplus.dev.minimap.core.XaeroMinimapPlugin\}
+[22:10:52] [main/DEBUG] [FML]: Running coremod plugin XaeroMinimapPlugin
+[22:10:52] [main/DEBUG] [FML]: Coremod plugin class XaeroMinimapPlugin run successfully
+[22:10:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:10:52] [main/DEBUG] [FML]: Injecting coremod XaeroWorldMapPlugin \{xaeroplus.dev.worldmap.core.XaeroWorldMapPlugin\} class transformers
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.map.core.transformer.ChunkTransformer
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.map.core.transformer.NetHandlerPlayClientTransformer
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.map.core.transformer.EntityPlayerTransformer
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.map.core.transformer.AbstractClientPlayerTransformer
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.map.core.transformer.WorldClientTransformer
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.map.core.transformer.PlayerListTransformer
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.map.core.transformer.SaveFormatTransformer
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.map.core.transformer.BiomeColorHelperTransformer
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.map.core.transformer.MinecraftTransformer
+[22:10:52] [main/DEBUG] [FML]: Injection complete
+[22:10:52] [main/DEBUG] [FML]: Running coremod plugin for XaeroWorldMapPlugin \{xaeroplus.dev.worldmap.core.XaeroWorldMapPlugin\}
+[22:10:52] [main/DEBUG] [FML]: Running coremod plugin XaeroWorldMapPlugin
+[22:10:52] [main/DEBUG] [FML]: Coremod plugin class XaeroWorldMapPlugin run successfully
+[22:10:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:10:52] [main/DEBUG] [FML]: Injecting coremod XaeroMinimapPlugin \{xaero.common.core.XaeroMinimapPlugin\} class transformers
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.ChunkTransformer
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.NetHandlerPlayClientTransformer
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.EntityPlayerTransformer
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.AbstractClientPlayerTransformer
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.WorldClientTransformer
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.EntityPlayerSPTransformer
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.PlayerListTransformer
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.SaveFormatTransformer
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.GuiIngameForgeTransformer
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.GuiBossOverlayTransformer
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.common.core.transformer.ModelRendererTransformer
+[22:10:52] [main/DEBUG] [FML]: Injection complete
+[22:10:52] [main/DEBUG] [FML]: Running coremod plugin for XaeroMinimapPlugin \{xaero.common.core.XaeroMinimapPlugin\}
+[22:10:52] [main/DEBUG] [FML]: Running coremod plugin XaeroMinimapPlugin
+[22:10:52] [main/DEBUG] [FML]: Coremod plugin class XaeroMinimapPlugin run successfully
+[22:10:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:10:52] [main/DEBUG] [FML]: Injecting coremod XaeroWorldMapPlugin \{xaero.map.core.XaeroWorldMapPlugin\} class transformers
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.map.core.transformer.ChunkTransformer
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.map.core.transformer.NetHandlerPlayClientTransformer
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.map.core.transformer.EntityPlayerTransformer
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.map.core.transformer.AbstractClientPlayerTransformer
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.map.core.transformer.WorldClientTransformer
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.map.core.transformer.PlayerListTransformer
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.map.core.transformer.SaveFormatTransformer
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.map.core.transformer.BiomeColorHelperTransformer
+[22:10:52] [main/TRACE] [FML]: Registering transformer xaero.map.core.transformer.MinecraftTransformer
+[22:10:52] [main/DEBUG] [FML]: Injection complete
+[22:10:52] [main/DEBUG] [FML]: Running coremod plugin for XaeroWorldMapPlugin \{xaero.map.core.XaeroWorldMapPlugin\}
+[22:10:52] [main/DEBUG] [FML]: Running coremod plugin XaeroWorldMapPlugin
+[22:10:52] [main/DEBUG] [FML]: Coremod plugin class XaeroWorldMapPlugin run successfully
+[22:10:52] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[22:10:52] [main/DEBUG] [mixin]: Processing launch tasks for PlatformAgent[MixinPlatformAgentFML:file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.7.11-SNAPSHOT/7a670207bdb97db418118ad1e9bb42424ff3776d/mixin-0.7.11-SNAPSHOT.jar]
+[22:10:52] [main/DEBUG] [mixin]: Creating FML remapper adapter: org.spongepowered.asm.bridge.RemapperAdapterFML
+[22:10:52] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@186cb891
+[22:10:52] [main/DEBUG] [mixin]: Processing launch tasks for PlatformAgent[MixinPlatformAgentDefault:file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.7.11-SNAPSHOT/7a670207bdb97db418118ad1e9bb42424ff3776d/mixin-0.7.11-SNAPSHOT.jar]
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/charsets.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/ext/access-bridge-64.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/ext/cldrdata.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/ext/dnsns.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/ext/jaccess.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/ext/jfxrt.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/ext/localedata.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/ext/nashorn.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/ext/sunec.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/ext/sunjce_provider.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/ext/sunmscapi.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/ext/sunpkcs11.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/ext/zipfs.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/jce.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/jfr.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/jfxswt.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/jsse.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/management-agent.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/resources.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Program%20Files/Amazon%20Corretto/jdk1.8.0_362/jre/lib/rt.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/F:/NiceTryMagipigeon/Java/XaeroPlus/build/classes/java/main/ for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/F:/NiceTryMagipigeon/Java/XaeroPlus/build/resources/main/ for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-slf4j-impl/2.14.0/d6003a3b3f24fdb476848f4ecabdb2a43354e410/log4j-slf4j-impl-2.14.0.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/forge_gradle/deobf_dependencies/curse/maven/xaeros-world-map-317780/4424616_mapped_snapshot_20171003-1.12/xaeros-world-map-317780-4424616_mapped_snapshot_20171003-1.12.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/forge_gradle/deobf_dependencies/curse/maven/xaeros-minimap-263420/4430571_mapped_snapshot_20171003-1.12/xaeros-minimap-263420-4430571_mapped_snapshot_20171003-1.12.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.12.2-14.23.5.2860_mapped_snapshot_20171003-1.12/forge-1.12.2-14.23.5.2860_mapped_snapshot_20171003-1.12-recomp.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.21/4ec95b60d4e86b5c95a0e919cb172a0af98011ef/commons-compress-1.21.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/da76ca59f6a57ee3102f8f9bd9cee742973efa8a/slf4j-api-1.7.25.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.15.0/4a5aa7e55a29391c6f66e0b259d5189aa11e45d0/log4j-api-2.15.0.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/forge_gradle/minecraft_repo/versions/1.12.2/client-extra.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/net.minecraft/launchwrapper/1.12/111e7bea9c968cdb3d06ef4632bf7ff0824d0f36/launchwrapper-1.12.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.15.0/ba55c13d7ac2fd44df9cc8074455719a33f375b9/log4j-core-2.15.0.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.1/f7be08ec23c21485b9b5a1cf1654c2ec8c58168d/jsr305-3.0.1.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/net.minecraftforge/mergetool/1.0.13/c18446ec4d5814f447d7a79b314ba9a27cc8dbc8/mergetool-1.0.13-forge.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/forge_gradle/maven_downloader/de/oceanlabs/mcp/mcp_snapshot/20171003-1.12/mcp_snapshot-20171003-1.12.zip for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-debug-all/5.2/3354e11e2b34215f06dab629ab88e06aca477c19/asm-debug-all-5.2.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.jline/jline/3.5.1/51800e9d7a13608894a5a28eed0f5c7fa2f300fb/jline-3.5.1.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-actor_2.11/2.3.3/ed62e9fc709ca0f2ff1a3220daa8b70a2870078e/akka-actor_2.11-2.3.3.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/com.typesafe/config/1.2.1/f771f71fdae3df231bcd54d5ca2d57f0bf93f467/config-1.2.1.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-actors-migration_2.11/1.1.0/dfa8bc42b181d5b9f1a5dd147f8ae308b893eb6f/scala-actors-migration_2.11-1.1.0.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-compiler/2.11.1/56ea2e6c025e0821f28d73ca271218b8dd04926a/scala-compiler-2.11.1.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.scala-lang.plugins/scala-continuations-library_2.11/1.0.2_mc/e517c53a7e9acd6b1668c5a35eccbaa3bab9aac/scala-continuations-library_2.11-1.0.2_mc.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.scala-lang.plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/f361a3283452c57fa30c1ee69448995de23c60f7/scala-continuations-plugin_2.11.1-1.0.2_mc.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.11.1/6580347e61cc7f8e802941e7fde40fa83b8badeb/scala-reflect-2.11.1.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.1/e11da23da3eabab9f4777b9220e60d44c1aab6a/scala-library-2.11.1.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-parser-combinators_2.11/1.0.1/f05d7345bf5a58924f2837c6c1f4d73a938e1ff0/scala-parser-combinators_2.11-1.0.1.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-swing_2.11/1.0.1/b1cdd92bd47b1e1837139c1c53020e86bb9112ae/scala-swing_2.11-1.0.1.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-xml_2.11/1.0.2/7a80ec00aec122fba7cd4e0d4cdd87ff7e4cb6d0/scala-xml_2.11-1.0.2.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/lzma/lzma/0.0.1/521616dc7487b42bef0e803bd2fa3faf668101d7/lzma-0.0.1.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/java3d/vecmath/1.5.2/79846ba34cbd89e2422d74d53752f993dcc2ccaf/vecmath-1.5.2.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/net.sf.trove4j/trove4j/3.0.3/42ccaf4761f0dfdfa805c9e340d99a755907e2dd/trove4j-3.0.3.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.5.3/7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4/maven-artifact-3.5.3.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/net.minecraftforge/legacydev/0.2.3.1/f2cd4a8c9f09faf1c1e4a9a4c65df36e634f95db/legacydev-0.2.3.1-fatjar.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/com.mojang/realms/1.10.22/bd0dccebdf3744c75f1ca20063f16e8f7d5e663f/realms-1.10.22.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/com.mojang/authlib/1.5.25/9834cdf236c22e84b946bba989e2f94ef5897c3c/authlib-1.5.25.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/com.mojang/text2speech/1.10.3/48fd510879dff266c3815947de66e3d4809f8668/text2speech-1.10.3.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/com.mojang/patchy/1.3.9/eb8bb7b66fa0e2152b1b40b3856e82f7619439ee/patchy-1.3.9.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/oshi-project/oshi-core/1.1/9ddf7b048a8d701be231c0f4f95fd986198fd2d8/oshi-core-1.1.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna/4.4.0/cb208278274bf12ebdb56c61bd7407e6f774d65a/jna-4.4.0.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/platform/3.4.0/e3f70017be8100d3d6923f50b3d2ee17714e9c13/platform-3.4.0.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/com.ibm.icu/icu4j-core-mojang/51.2/63d216a9311cca6be337c1e458e587f99d382b84/icu4j-core-mojang-51.2.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/com.paulscode/codecjorbis/20101023/c73b5636faf089d9f00e8732a829577de25237ee/codecjorbis-20101023.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/com.paulscode/codecwav/20101023/12f031cfe88fef5c1dd36c563c0a3a69bd7261da/codecwav-20101023.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/com.paulscode/libraryjavasound/20101123/5c5e304366f75f9eaa2e8cca546a1fb6109348b3/libraryjavasound-20101123.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/com.paulscode/librarylwjglopenal/20100824/73e80d0794c39665aec3f62eee88ca91676674ef/librarylwjglopenal-20100824.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/com.paulscode/soundsystem/20120107/419c05fe9be71f792b2d76cfc9b67f1ed0fec7f6/soundsystem-20120107.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.9.Final/97860965d6a0a6b98e7f569f3f966727b8db75/netty-all-4.1.9.Final.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/21.0/3a3d111be1be1b745edfa7d91678a12d7ed38709/guava-21.0.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.5/6c6c702c89bfff3cd9e80b04d668c5e190d588c6/commons-lang3-3.5.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.5/2852e6e05fbb95076fc091f6d1780f1f8fe35e0f/commons-io-2.5.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.3.3/18f4247ff4572a074444572cee34647c43e7c9c7/httpclient-4.3.3.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.10/4b95f4897fa13f2cd904aee711aeafc0c5295cd8/commons-codec-1.10.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl_util/2.9.4-nightly-20150209/d51a7c040a721d13efdfbd34f8b257b2df882ad0/lwjgl_util-2.9.4-nightly-20150209.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl/2.9.4-nightly-20150209/697517568c68e78ae0b4544145af031c81082dfe/lwjgl-2.9.4-nightly-20150209.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput/2.0.5/39c7796b469a600f72380316f6b1f11db6c2c7c4/jinput-2.0.5.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/net.java.jutils/jutils/1.0.0/e12fe1fda814bd348c1579329c86943d2cd3c6a6/jutils-1.0.0.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.1.3/f6f66e966c70a83ffbdb6f17a0919eaf7c8aca7f/commons-logging-1.1.3.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.3.2/31fbbff1ddbf98f3aa7377c94d33b0447c646b6e/httpcore-4.3.2.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/it.unimi.dsi/fastutil/7.1.0/9835253257524c1be7ab50c057aa2d418fb72082/fastutil-7.1.0.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl-platform/2.9.4-nightly-20150209/b04f3ee8f5e43fa3b162981b50bb72fe1acabb33/lwjgl-platform-2.9.4-nightly-20150209.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl-platform/2.9.4-nightly-20150209/931074f46c795d2f7b30ed6395df5715cfd7675b/lwjgl-platform-2.9.4-nightly-20150209-natives-linux.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl-platform/2.9.4-nightly-20150209/bcab850f8f487c3f4c4dbabde778bb82bd1a40ed/lwjgl-platform-2.9.4-nightly-20150209-natives-osx.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl-platform/2.9.4-nightly-20150209/b84d5102b9dbfabfeb5e43c7e2828d98a7fc80e0/lwjgl-platform-2.9.4-nightly-20150209-natives-windows.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-actors/2.11.0/8ccfb6541de179bb1c4d45cf414acee069b7f78b/scala-actors-2.11.0.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-xml_2.11/1.0.2/820fbca7e524b530fdadc594c39d49a21ea0337e/scala-xml_2.11-1.0.2.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.1/f05d7345bf5a58924f2837c6c1f4d73a938e1ff0/scala-parser-combinators_2.11-1.0.1.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-utils/3.1.0/60eecb6f15abdb1c653ad80abaac6fe188b3feaa/plexus-utils-3.1.0.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/ca.weblite/java-objc-bridge/1.0.0/6ef160c3133a78de015830860197602ca1c855d3/java-objc-bridge-1.0.0.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/net.sf.jopt-simple/jopt-simple/5.0.4/4fdac2fbe92dfad86aa6e9301736f6b4342a3f5c/jopt-simple-5.0.4.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/com.mojang/text2speech/1.10.3/84a4b856389cc4f485275b1f63497a95a857a443/text2speech-1.10.3-natives-windows.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput-platform/2.0.5/7ff832a6eb9ab6a767f1ade2b548092d0fa64795/jinput-platform-2.0.5-natives-linux.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput-platform/2.0.5/53f9c919f34d2ca9de8c51fc4e1e8282029a9232/jinput-platform-2.0.5-natives-osx.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput-platform/2.0.5/385ee093e01f587f30ee1c8a2ee7d408fd732e16/jinput-platform-2.0.5-natives-windows.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-util/6.2/a9690730f92cc79eeadc20e400ebb41eccce10b1/asm-util-6.2.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/6.2/61570e046111559f38d4e0e580c005f75988c0a6/asm-tree-6.2.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/6.2/1b6c4ff09ce03f3052429139c2a68e295cae6604/asm-6.2.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/6.2/c7d9a90d221cbb977848d2c777eb3aa7637e89df/asm-analysis-6.2.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/F:/Some%20shit/IntelliJ%20IDEA%20Community%20Edition%202022.3.2/lib/idea_rt.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/F:/NiceTryMagipigeon/Java/XaeroPlus/run/./mods/Xaeros_Minimap_23.3.0_Forge_1.12.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning file:/F:/NiceTryMagipigeon/Java/XaeroPlus/run/./mods/XaerosWorldMap_1.29.2_Forge_1.12.jar for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: Scanning asmgen:/ for mixin tweaker
+[22:10:52] [main/DEBUG] [mixin]: inject() running with 1 agents
+[22:10:52] [main/DEBUG] [mixin]: Processing inject() for PlatformAgent[MixinPlatformAgentFML:file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.7.11-SNAPSHOT/7a670207bdb97db418118ad1e9bb42424ff3776d/mixin-0.7.11-SNAPSHOT.jar]
+[22:10:52] [main/DEBUG] [mixin]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:file:/C:/Users/AverageDev/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.7.11-SNAPSHOT/7a670207bdb97db418118ad1e9bb42424ff3776d/mixin-0.7.11-SNAPSHOT.jar]
+[22:10:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:10:52] [main/DEBUG] [FML]: Loaded 215 rules from AccessTransformer config file forge_at.cfg
+[22:10:52] [main/DEBUG] [mixin]: Adding new mixin transformer proxy #2
+[22:10:52] [main/DEBUG] [FML]: Validating minecraft
+[22:10:52] [main/DEBUG] [mixin]: Preparing mixins for MixinEnvironment[INIT]
+[22:10:52] [main/DEBUG] [FML]: Minecraft validated, launching...
+[22:10:52] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:10:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:10:52] [main/DEBUG] [mixin]: Adding new mixin transformer proxy #3
+[22:10:52] [main/DEBUG] [mixin]: Preparing mixins for MixinEnvironment[DEFAULT]
+[22:10:52] [main/DEBUG] [mixin]: Selecting config mixins.xaeroplus.json
+[22:10:52] [main/WARN] [mixin]: Reference map 'mixins.xaeroplus.refmap.json' for mixins.xaeroplus.json could not be read. If this is a development environment you can ignore this message
+[22:10:52] [main/DEBUG] [mixin]: Preparing mixins.xaeroplus.json (21)
+[22:10:52] [main/DEBUG] [mixin]: Found name transformer: net.minecraftforge.fml.common.asm.transformers.DeobfuscationTransformer
+[22:10:52] [main/DEBUG] [mixin]: Rebuilding transformer delegation list:
+[22:10:52] [main/DEBUG] [mixin]: Found name transformer: net.minecraftforge.fml.common.asm.transformers.DeobfuscationTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.PatchingTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Excluding: org.spongepowered.asm.mixin.transformer.Proxy
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Excluding: $wrapper.net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.ChunkTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.NetHandlerPlayClientTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.EntityPlayerTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.AbstractClientPlayerTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.WorldClientTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.EntityPlayerSPTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.PlayerListTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.SaveFormatTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.GuiIngameForgeTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.GuiBossOverlayTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.ModelRendererTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.map.core.transformer.ChunkTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.map.core.transformer.NetHandlerPlayClientTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.map.core.transformer.EntityPlayerTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.map.core.transformer.AbstractClientPlayerTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.map.core.transformer.WorldClientTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.map.core.transformer.PlayerListTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.map.core.transformer.SaveFormatTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.map.core.transformer.BiomeColorHelperTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.map.core.transformer.MinecraftTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.ChunkTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.NetHandlerPlayClientTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.EntityPlayerTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.AbstractClientPlayerTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.WorldClientTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.EntityPlayerSPTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.PlayerListTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.SaveFormatTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.GuiIngameForgeTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.GuiBossOverlayTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.common.core.transformer.ModelRendererTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.map.core.transformer.ChunkTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.map.core.transformer.NetHandlerPlayClientTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.map.core.transformer.EntityPlayerTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.map.core.transformer.AbstractClientPlayerTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.map.core.transformer.WorldClientTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.map.core.transformer.PlayerListTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.map.core.transformer.SaveFormatTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.map.core.transformer.BiomeColorHelperTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    $wrapper.xaero.map.core.transformer.MinecraftTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.DeobfuscationTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.AccessTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.ModAccessTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.ItemStackTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.ItemBlockTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.ItemBlockSpecialTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.PotionEffectTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Excluding: org.spongepowered.asm.mixin.transformer.Proxy
+[22:10:52] [main/DEBUG] [mixin]:   Excluding: net.minecraftforge.fml.common.asm.transformers.TerminalTransformer
+[22:10:52] [main/DEBUG] [mixin]:   Excluding: org.spongepowered.asm.mixin.transformer.Proxy
+[22:10:52] [main/DEBUG] [mixin]: Transformer delegation list created with 51 entries
+[22:10:53] [main/TRACE] [mixin]: Added class metadata for xaero/common/settings/ModSettings to metadata cache
+[22:10:53] [main/TRACE] [mixin]: Added class metadata for xaero/common/controls/ControlsHandler to metadata cache
+[22:10:53] [main/TRACE] [mixin]: Added class metadata for xaero/common/controls/ControlsRegister to metadata cache
+[22:10:53] [main/TRACE] [mixin]: Added class metadata for xaero/map/gui/GuiMap to metadata cache
+[22:10:53] [main/TRACE] [mixin]: Added class metadata for xaero/common/gui/GuiMinimapOverlaysSettings to metadata cache
+[22:10:53] [main/TRACE] [mixin]: Added class metadata for xaero/common/patreon/GuiUpdateAll to metadata cache
+[22:10:53] [main/TRACE] [mixin]: Added class metadata for xaero/common/gui/GuiWaypoints to metadata cache
+[22:10:53] [main/TRACE] [mixin]: Added class metadata for xaero/common/gui/GuiWaypoints$List to metadata cache
+[22:10:53] [main/TRACE] [mixin]: Added class metadata for xaero/map/gui/GuiWorldMapSettings to metadata cache
+[22:10:53] [main/TRACE] [mixin]: Added class metadata for xaero/map/region/LeveledRegion to metadata cache
+[22:10:53] [main/TRACE] [mixin]: Added class metadata for xaero/map/MapProcessor to metadata cache
+[22:10:53] [main/TRACE] [mixin]: Added class metadata for xaero/map/file/MapSaveLoad to metadata cache
+[22:10:53] [main/TRACE] [mixin]: Added class metadata for xaero/map/world/MapWorld to metadata cache
+[22:10:53] [main/TRACE] [mixin]: Added class metadata for xaero/map/MapWriter to metadata cache
+[22:10:53] [main/TRACE] [mixin]: Added class metadata for xaero/map/misc/Misc to metadata cache
+[22:10:53] [main/TRACE] [mixin]: Added class metadata for xaero/common/mods/SupportXaeroWorldmap to metadata cache
+[22:10:53] [main/TRACE] [mixin]: Added class metadata for xaero/common/minimap/waypoints/WaypointsManager to metadata cache
+[22:10:53] [main/TRACE] [mixin]: Added class metadata for xaero/map/settings/ModSettings to metadata cache
+[22:10:53] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraft.client.Minecraft
+[22:10:53] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraft.client.Minecraft
+[22:10:53] [main/TRACE] [mixin]: Added class metadata for net/minecraft/client/Minecraft to metadata cache
+[22:10:53] [main/TRACE] [mixin]: Added class metadata for net/minecraft/network/NetworkManager to metadata cache
+[22:10:53] [main/TRACE] [mixin]: Added class metadata for java/lang/invoke/MethodHandles$Lookup to metadata cache
+[22:10:53] [main/TRACE] [mixin]: Added class metadata for xaeroplus/mixin/client/MixinGuiMap$2 to metadata cache
+[22:10:54] [main/TRACE] [mixin]: Added class metadata for xaeroplus/mixin/client/MixinGuiMap$1 to metadata cache
+[22:10:54] [main/TRACE] [mixin]: Added class metadata for xaeroplus/module/impl/NewChunks$NewChunkAtChunkPos to metadata cache
+[22:10:54] [main/TRACE] [mixin]: Added class metadata for net/minecraft/client/settings/GameSettings$Options to metadata cache
+[22:10:54] [main/TRACE] [mixin]: Added class metadata for xaero/common/gui/GuiMinimapSettings to metadata cache
+[22:10:54] [main/TRACE] [mixin]: Added class metadata for xaero/common/gui/GuiSettings to metadata cache
+[22:10:54] [main/TRACE] [mixin]: Added class metadata for xaeroplus/mixin/client/MixinGuiWaypoints$1 to metadata cache
+[22:10:54] [main/TRACE] [mixin]: Added class metadata for xaero/map/file/worldsave/WorldDataHandler$Result to metadata cache
+[22:10:54] [main/TRACE] [mixin]: Added class metadata for net/minecraft/util/math/BlockPos$MutableBlockPos to metadata cache
+[22:10:54] [main/DEBUG] [mixin]: Prepared 21 mixins in 1,298 sec (61,8ms avg) (82ms load, 879ms transform, 0ms plugin)
+[22:10:54] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[22:10:54] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraft.client.Minecraft
+[22:10:54] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraft.client.Minecraft
+[22:10:54] [main/DEBUG] [mixin]: Mixing mc.MixinMinecraft from mixins.xaeroplus.json into net.minecraft.client.Minecraft
+[22:10:54] [main/TRACE] [mixin]: Added class metadata for xaeroplus/settings/XaeroPlusSettingRegistry to metadata cache
+[22:10:54] [main/TRACE] [mixin]: Added class metadata for xaeroplus/settings/XaeroPlusSetting to metadata cache
+[22:10:54] [main/TRACE] [mixin]: Added class metadata for xaeroplus/module/ModuleManager to metadata cache
+[22:10:54] [main/TRACE] [mixin]: Added class metadata for xaeroplus/module/impl/NewChunks to metadata cache
+[22:10:54] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraft.client.multiplayer.WorldClient net.minecraft.client.multiplayer.WorldClient
+[22:10:54] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraft.client.multiplayer.WorldClient
+[22:10:54] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraft.client.multiplayer.WorldClient net.minecraft.client.multiplayer.WorldClient
+[22:10:54] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraft.client.multiplayer.WorldClient
+[22:10:54] [main/TRACE] [mixin]: Added class metadata for net/minecraft/client/multiplayer/WorldClient to metadata cache
+[22:10:54] [main/TRACE] [mixin]: Added class metadata for java/lang/String to metadata cache
+[22:10:54] [main/TRACE] [mixin]: Added class metadata for org/spongepowered/asm/mixin/injection/callback/CallbackInfo to metadata cache
+[22:10:54] [main/TRACE] [mixin]: Added class metadata for net/minecraft/util/ReportedException to metadata cache
+[22:10:54] [main/TRACE] [mixin]: Added class metadata for net/minecraft/util/MinecraftError to metadata cache
+[22:10:54] [main/TRACE] [mixin]: Added class metadata for java/lang/RuntimeException to metadata cache
+[22:10:54] [main/TRACE] [mixin]: Added class metadata for java/lang/Exception to metadata cache
+[22:10:54] [main/TRACE] [mixin]: Added class metadata for java/lang/Throwable to metadata cache
+[22:10:54] [main/TRACE] [mixin]: Added class metadata for java/lang/Error to metadata cache
+[22:10:54] [main/TRACE] [mixin]: Added class metadata for java/util/Iterator to metadata cache
+[22:10:54] [main/TRACE] [mixin]: Added class metadata for net/minecraft/client/gui/GuiGameOver to metadata cache
+[22:10:54] [main/TRACE] [mixin]: Added class metadata for net/minecraft/client/gui/GuiScreen to metadata cache
+[22:10:54] [main/TRACE] [mixin]: Added class metadata for net/minecraft/client/gui/GuiMainMenu to metadata cache
+[22:10:54] [main/TRACE] [mixin]: Added class metadata for java/lang/Integer to metadata cache
+[22:10:54] [main/TRACE] [mixin]: Added class metadata for java/lang/Number to metadata cache
+[22:10:54] [main/TRACE] [mixin]: Added class metadata for com/mojang/authlib/yggdrasil/YggdrasilAuthenticationService to metadata cache
+[22:10:54] [main/TRACE] [mixin]: Added class metadata for com/mojang/authlib/HttpAuthenticationService to metadata cache
+[22:10:54] [main/TRACE] [mixin]: Added class metadata for com/mojang/authlib/BaseAuthenticationService to metadata cache
+[22:10:54] [main/TRACE] [mixin]: Added class metadata for java/lang/InterruptedException to metadata cache
+[22:10:54] [main/TRACE] [mixin]: Added class metadata for com/mojang/authlib/minecraft/MinecraftSessionService to metadata cache
+[22:10:54] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraft.client.multiplayer.WorldClient net.minecraft.client.multiplayer.WorldClient
+[22:10:54] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraft.client.multiplayer.WorldClient
+[22:10:54] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraft.client.multiplayer.WorldClient net.minecraft.client.multiplayer.WorldClient
+[22:10:54] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraft.client.multiplayer.WorldClient
+[22:10:54] [main/ERROR] [LaunchWrapper]: Unable to launch
+java.lang.reflect.InvocationTargetException: null
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_362]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_362]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_362]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_362]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_362]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_362]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_362]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_362]
+	at net.minecraftforge.legacydev.Main.start(Main.java:86) [legacydev-0.2.3.1-fatjar.jar:0.2.3.1+4+372be23]
+	at net.minecraftforge.legacydev.MainClient.main(MainClient.java:29) [legacydev-0.2.3.1-fatjar.jar:0.2.3.1+4+372be23]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/multiplayer/WorldClient
+	at net.minecraft.client.main.Main.main(Main.java:42) ~[Main.class:?]
+	... 12 more
+Caused by: java.lang.ClassNotFoundException: net.minecraft.client.multiplayer.WorldClient
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) ~[?:1.8.0_362]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_362]
+	at net.minecraft.client.main.Main.main(Main.java:42) ~[Main.class:?]
+	... 12 more
+Caused by: java.lang.ClassFormatError: Duplicate interface name "xaero/common/minimap/mcworld/IXaeroMinimapClientWorld" in class file net/minecraft/client/multiplayer/WorldClient
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:1.8.0_362]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:756) ~[?:1.8.0_362]
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142) ~[?:1.8.0_362]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) ~[?:1.8.0_362]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_362]
+	at net.minecraft.client.main.Main.main(Main.java:42) ~[Main.class:?]
+	... 12 more
+[22:10:54] [main/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.reflect.InvocationTargetException
+[22:10:54] [main/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:10:54] [main/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:10:54] [main/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:10:54] [main/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[22:10:54] [main/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.legacydev.Main.start(Main.java:86)
+[22:10:54] [main/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.legacydev.MainClient.main(MainClient.java:29)
+[22:10:54] [main/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: Caused by: net.minecraftforge.fml.relauncher.FMLSecurityManager$ExitTrappedException
+[22:10:54] [main/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at net.minecraftforge.fml.relauncher.FMLSecurityManager.checkPermission(FMLSecurityManager.java:49)
+[22:10:54] [main/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at java.lang.SecurityManager.checkExit(SecurityManager.java:761)
+[22:10:54] [main/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at java.lang.Runtime.exit(Runtime.java:101)
+[22:10:54] [main/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at java.lang.System.exit(System.java:987)
+[22:10:54] [main/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:138)
+[22:10:54] [main/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:10:54] [main/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	... 6 more
